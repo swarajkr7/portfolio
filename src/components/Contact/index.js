@@ -22,7 +22,7 @@ const ContactForm = styled.form`
   max-width: 600px;
   margin: 0 auto;
   background: #161623;
-  
+  margin-bottom:75px;
   padding: 35px;
   border-radius: 10px;
   background: "#854CE6"
