@@ -78,6 +78,11 @@ const FormButton = styled.button`
   &:hover {
     background: linear-gradient(45deg, #d344ff, #a445ff);
   }
+
+   @media (max-width: 640px) {
+        padding: 12px 90px;
+        font-size: 18px;
+    } 
 `;
 
 const Contact = () => {

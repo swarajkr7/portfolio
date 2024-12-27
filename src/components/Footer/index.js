@@ -19,6 +19,12 @@ const FooterNav = styled.nav`
   display: flex;
   justify-content: center;
   margin-bottom: 20px;
+
+  @media (max-width: 640px) {
+        flex-direction: column;
+    } 
+
+
 `;
 
 const NavLink = styled.a`
