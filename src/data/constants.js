@@ -184,10 +184,10 @@ export const Bio = {
     {
       id: 0,
       img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-      role: "DevOps & Fullstack Engineering Intern",
-      company: "Flipr Inovations Pvt. Ltd.",
-      date: "Aug 2023 - July 2023",
-      desc: "Working on Flipr Platforms, managing DevOps, and streamlining the process with automation.",
+      role: "Blockchain Developer",
+      company: "Indian Institute of Technology, Patna",
+      date: "jun 2023 - Aug 2023",
+      desc: "Implementing Supply Chain Management via Ethereum Blockchain, and gaining practical blockchain insights through an E-commerce website",
       skills: [
         "Docker",
         "Terraform",
@@ -205,10 +205,10 @@ export const Bio = {
     {
       id: 0,
       img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
-      role: "Frontend Engineer Intern",
-      company: "Neurobit",
-      date: "June 2023 - Present",
-      desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI.",
+      role: "Research Assistant",
+      company: "Mizoram University",
+      date: "Feb 2024 - Apr 2024",
+      desc: "Developed and implemented machine learning models to detect Parkinson's disease from an audio dataset.",
       skills: [
         "ReactJS",
         "Redux",
